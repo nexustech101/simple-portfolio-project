@@ -53,12 +53,12 @@ const Footer = () => {
                 <span className="text-sm ml-2">Learning about me</span>
               </p>
               <p className="flex items-center my-2 cursor-pointer">
-                <span className="text-sm ml-2">mifwebchain@gmail.com</span>
+                <span className="text-sm ml-2">charlesldefreeseiii@gmail.com</span>
               </p>
             </div>
           </div>
           <div className="text-center text-sm mb-4">
-            &copy; WebChain Dev 2023 Inc. All rights reserved
+            &copy; Development 2023 Inc. All rights reserved
           </div>
         </div>
       </div>
