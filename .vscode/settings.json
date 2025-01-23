@@ -1,0 +1,26 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Encyclopedia",
+            "group": "Dictionary",
+            "database": "C:\\Users\\user\\OneDrive\\Documents\\Python\\English Dictionary Datasets & Database\\db\\freq_dict.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Test Dictionary",
+            "group": "Testing",
+            "database": "C:\\Users\\user\\OneDrive\\Documents\\datasets\\Testing English Etymology\\testing.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "etymology",
+            "group": "dictionary",
+            "database": "C:\\Users\\user\\OneDrive\\Documents\\datasets\\Testing English Etymology\\etymology_test.db"
+        }
+    ]
+}
